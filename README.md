@@ -332,9 +332,7 @@ namespace YourNamespace.Services
 3. **Update the controller**:
 
 ```csharp
-using Microsoft.AspNetCore.Mvc
-
-;
+using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using YourNamespace.Models;
 using YourNamespace.Services;
